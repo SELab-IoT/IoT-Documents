@@ -1,5 +1,5 @@
 # IoT-Documents
-> SELab IoT Project documents repository.
+## SELab IoT Project documents repository.
 
 ## Please keep below commit message format.
 
