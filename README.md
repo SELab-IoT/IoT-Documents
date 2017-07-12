@@ -3,4 +3,4 @@
 
 ## Please keep below commit message format.
 
-> git commit -m "[mm/dd]수정내용"
+> **git commit -m "[mm/dd]수정내용"**
