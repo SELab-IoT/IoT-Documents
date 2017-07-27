@@ -16,7 +16,7 @@
 + 이학진: Write GitHub Wiki, Arduino Study(HTTP Communication), PEP Design & Abstraction & Develop(Additional)
 
 ## 4. Design Decision
-![Overall Deployment Diagram](https://github.com/SELab-IoT/XACML-Server/blob/document/Diagrams/Deployment%20Diagram/overall.png?raw=true)
+![Overall Deployment Diagram](https://github.com/SELab-IoT/IoT-Documents/blob/master/Diagrams/Deployment%20Diagram/overall.png?raw=true)
 + First of all, user application will be developed later.
 + So, in PEP, XACML Request/Converter have to be modularized.
 + Enforcer is just temporary one. 
