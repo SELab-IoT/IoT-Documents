@@ -4,7 +4,7 @@
 # Topic: Project Kick Off Meeting
 
 ## 1. Milestone
-> Refer [GitHub Wiki](https://github.com/SELab-IoT/XACML-Server/wiki#2-milestone)
+> Refer [GitHub Wiki](https://github.com/SELab-IoT/IoT-Documents/wiki#2-milestone)
 
 ## 2. Member Schedule(July)
 > Refer Schedule.xlsx in Dropbox (\신진연구\Schedule.xlsx)
