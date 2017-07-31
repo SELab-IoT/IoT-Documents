@@ -1,0 +1,8 @@
+현재진행상황 :  O/S설치 및 환경구축
+지강 : 8/02~14 HOSPITAL 14 Worst Case
+			8/17~20 사이판
+			8/24or25 Come back
+
+라즈베리파이 웹서버구축 : PHP, SQL, Apache
+exec_shell을 활용하여 device 조작 : php에서 python파일 실행하여 device조작
+웹서버용 ip는 기찬mac에서 ip사용(확정아님)
