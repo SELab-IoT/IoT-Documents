@@ -5,8 +5,15 @@
 ## 1. GitHub Wiki
 
 ## 2. 이번 주 까지의 진행도
+#### PDP
+> /evaulate 로 xacml request를 보내면 평가를 할 수 있도록 하였습니다.
+정책을 Subject 문법을 이용해서 작성하였습니다.
+Balana 객체를 이용하고 config.xml 파일을 이용해서 여러 정책에 대한 PDP 객체를 생성할 수 있도록 하였습니다.
 
 ## 3. 다음 주 까지 할 일
+#### PDP
+> Document Getting Started 부분을 작성해야합니다.
+
 
 ## 4. 전체 아키텍처 공유
 
