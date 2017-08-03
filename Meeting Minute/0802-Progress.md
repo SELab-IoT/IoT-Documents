@@ -31,7 +31,7 @@ PEP 서버 기본구조 설계
 
 ## 5. XACML Converter
 + 이슈:
-PEP에서 사용자 입력을 범용적으로 XACML Request로 변환할 수 있는지 검토할 필요가 있음.  
+PEP에서 사용자 입력을 범용적으로 XACML Request로 변환할 수 있는지 검토할 필요가 있음.
 또한, Policy Editor에서 정책 작성자가 GUI로 작성한 정책을 XACML Policy로 변환할 때 역시 마찬가지.
 
 + 결론: 
